@@ -294,25 +294,25 @@ function create_config( )
 	"Weather",
 	"Welcome"
     },
-    sudo_users = {175636120,219339258},--Sudo users
+    sudo_users = {255872558,},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[🌐 Cyber Bot 🌐
+    about_text = [[🌐 Tabar Bot 🌐
 An advanced administration bot based on TeleSeed written in Lua
 
 🔰 Github 🔰
 Open Source Soon...
 
-♨️ Global Admins Of Cyber Bot : ♨️
+♨️ Global Admins Of Tabar Bot : ♨️
 
-🌀 @ThisIsPouria [Founder]
+🌀 @FUCKUP [Founder]
 
-🌀 @Mr_iNfluence [Developer]
+🌀 @typerredteam [Developer]
 
 ⭕️ Special thanks to
 SEEDTEAM
 
 💢 Our Channel : 💢
-📡 @CyberTM
+📡 @wasteTG
 ]],
     help_text_realm = [[
 Realm Commands:
